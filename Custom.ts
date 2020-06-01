@@ -1,3 +1,4 @@
+//% color=#8854d0 weight=31 icon="\uf03e"
 namespace screenMagic {
     /**
      * Address LEDs linearly row first
