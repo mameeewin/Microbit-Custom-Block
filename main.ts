@@ -1,4 +1,4 @@
-for (let index = 0; index <= 25; index++) {
-    screenMagic.plotAt(index)
+for (let Index = 0; Index <= 25 - 1; Index++) {
+    screenMagic.plotAt(Index)
     basic.pause(100)
 }
