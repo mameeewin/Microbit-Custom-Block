@@ -1,6 +1,15 @@
 
 > Open this page at [https://mameeewin.github.io/microbit-screen-as-a-line/](https://mameeewin.github.io/microbit-screen-as-a-line/)
+## Usage
 
+### ```plotAt``
+
+```blocks
+for (let index = 0; index <= 25; index++) {
+    screenMagic.plotAt(index)
+    basic.pause(100)
+}
+```
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -17,14 +26,6 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/mameeewin/microbit-screen-as-a-line** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/mameeewin/microbit-screen-as-a-line/raw/master/.github/makecode/blocks.png)
-
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
