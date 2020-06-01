@@ -4,6 +4,9 @@
 
 ### ```plotAt``
 
+
+Use the ``plotAt`` block to render Leds at a index location.
+
 ```blocks
 for (let index = 0; index <= 25; index++) {
     screenMagic.plotAt(index)
