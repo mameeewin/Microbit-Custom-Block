@@ -34,6 +34,5 @@ let sprites: game.LedSprite[] = []
         sprite.setBlink(interval)
         sprite.blink()
     }   
-}
-
     
+}
