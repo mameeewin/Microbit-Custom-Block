@@ -1,7 +1,7 @@
 
 > Open this page at [https://mameeewin.github.io/microbit-screen-as-a-line/](https://mameeewin.github.io/microbit-screen-as-a-line/)
 ## Usage
-
+https://makecode.microbit.org/beta#tutorial:github:mameeewin/microbit-screen-as-a-line/TUTORIAL
 ### ```plotAt``
 
 
